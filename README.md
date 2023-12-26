@@ -1,3 +1,50 @@
+1. What is Props-type?
+2. how to use tailwind CSS,
+3. About !! marks ==> Number(!!undefined) = 0
+4. What is className Library?
+5. How to use Icons in react?
+6. use of ...rest in className  - used to resolve event handler
+7. What is Page and components,
+8. What is Accordion design?
+8. How to have Button component?
+9. What is coonditional rendering "&&" or || (JS expression)
+10. What are JS expressions? -> && or || 
+11. Inline event handling?
+12. how to design dropdown and pass the data to other component?
+13. What is check helper"?"  ==> colors?.length is undefined.?
+14. how to target events when more dropdowns used? (event.targe)
+15. how to target events when more dropdowns used?  - ways 
+    For plan JavaAcript
+    1. Document wide click handler
+    2. Event Capturing/bubbling
+    3. Checking element inclusion
+
+    For React application
+    1. React Effect hook
+    2. react ref hook
+
+16. what is react ref hook and how to use it?
+
+
+section 13:
+1. Making Navigation reusable
+2. what is standard browser behavior?
+3. How navigation works in react?
+    1. user types url address
+    2. user clicks a link or preesses a button
+4. what is pushState?
+5. what is popState?
+6. how to detect popState events? using addEvent listener...
+7. What is routing?
+8. how to display compnents without reloading complete page?
+9. how to link components - using context.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

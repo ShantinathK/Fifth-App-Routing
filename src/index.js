@@ -4,10 +4,14 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import { NavigationProvider } from './context/navigation';
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <NavigationProvider>
+      <App />
+    </NavigationProvider>
   </React.StrictMode>
 );
 
